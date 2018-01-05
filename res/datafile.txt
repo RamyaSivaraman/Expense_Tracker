@@ -1,0 +1,12 @@
+1000,Grocery,12-01-2017
+2000,Transportation,04-02-2014
+3000,Housing,07-03-2013
+5000,Entertainment,08-04-2014
+500,Misc,03-05-2012
+4000,Grocery,06-09-2011
+5000,Misc,07-07-2012
+500,Misc,03-08-2012
+500,Transportation,04-09-2014
+300,Housing,07-10-2013
+200,Transportation,04-11-2014
+300,Grocery,12-12-2017
